@@ -36,5 +36,5 @@ go run .
 - CREATE_DB - если нужно создать БД установить значение `true`
 - PORT - порт API
 
-![postman](https://ibb.co/xtNcq0xy)
-![database](https://ibb.co/TDSJdSdT)
+![postman](https://i.ibb.co/ycrMF1HD/postman.png)
+![database](https://i.ibb.co/5XyCwyw9/database.png)
